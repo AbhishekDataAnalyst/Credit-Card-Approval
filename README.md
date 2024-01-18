@@ -7,7 +7,7 @@ Customers must fill out a form, either physically or online, to apply for a cred
 
 ## Dataset
 1. Credit Card:- Credit_Card.csv
-   (a) Ind_ID: Client ID
+(a) Ind_ID: Client ID
 
 Gender: Gender information
 
