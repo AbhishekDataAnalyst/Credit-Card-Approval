@@ -40,3 +40,5 @@ Overall, the proposed project has the potential to upgrade the credit card appro
 1. **Data Preprocessing**
 
    In this step, two Excel files will be combined into a single file using Dataframes. Later cleaning and preprocessing steps will be done to ensure its quality and suitability for data analysis. Also, EDA will be implemented. Missing values and outliers will be removed if any and then we will do encoding on the categorical features.
+
+2. **Data Transformation**
