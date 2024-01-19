@@ -39,12 +39,14 @@ Overall, the proposed project has the potential to upgrade the credit card appro
 ## Steps implemented to complete the project
 1. **Data Preprocessing**
 
-   In this step, two Excel files will be combined into a single file using Dataframes. Later cleaning and preprocessing steps will be done to ensure its quality and suitability for data analysis. Also, EDA will be implemented. Missing values and outliers will be removed if any and then we will do encoding on the categorical features.
+   In this step, two Excel files will be combined into a single file using Dataframes. Later cleaning and preprocessing steps will be done to ensure its quality and suitability for data analysis. Also, EDA will be implemented. Missing values and outliers will be removed if any and then we will do encoding on the categorical features. The cleaned dataset is what will be used for further analysis.
 
 2. **Feature Selection and Hypothesis Testing**
 
-   We will perform several feature selection techniques such as correlation test, Chi-Squared test etc to select the most important features. We will scale the continuous features in this step using StandardScaler.
+   After pre-processing the data, when EDA is performed, Univariate Analysis. i.e., histogram and pie chart for some columns and Bivariate Analysis. i.e., box plot, Scatter plot, correlation between data using heatmap and listed down the observations accordingly.
 
-3. **Machine Learning Algorithms**
+   Hypothesis Testing methods such as correlation test, Chi-Squared test etc to select the most important features.
+   
+4. **Machine Learning Algorithms**
 
-   Here ML Algorithms will be applied. Looking at the problem statement, 
+   Here ML Algorithms will be applied. Looking at the problem statement, with the categorial features involved 
