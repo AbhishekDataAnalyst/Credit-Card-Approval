@@ -5,6 +5,11 @@ A bank's credit card department is one of the top adopters of data science. A to
 
 Customers must fill out a form, either physically or online, to apply for a credit card. The application data is used to evaluate the applicant's creditworthiness. The decision is made using the application data in addition to the Credit Bureau Score, such as the FICO Score in the US or the CIBIL Score in India, and other internal information on the applicants. Additionally, banks are rapidly taking a lot of outside data into account to enhance the calibre of credit judgments.
 
+## Objectives
+The objective of this project is to build a machine-learning model that accurately predicts credit card approval outcomes. The model can provide insights into the most important factors that impact credit card approval, allowing banks to make informed decisions quickly and accurately. This can result in a faster and more efficient credit card approval process, reducing the time and cost associated with manual credit assessment methods.
+
+Overall, the proposed project has the potential to upgrade the credit card approval process, reduce manual effort and errors, and enhance the customer experience. This project demonstrates the potential of machine learning in automating and improving critical banking processes and can have significant benefits for banks and financial institutions in the global market.
+
 ## Dataset
 1. Credit_card.csv  
    - Ind_ID: Client ID
@@ -28,4 +33,7 @@ Customers must fill out a form, either physically or online, to apply for a cred
 
 2. Credit_card_label.csv
    - ID: The joining key between application data and credit status data, same is Ind_ID
-   - Label: 0 is the application approved and 1 is the application rejected. 
+   - Label: 0 is the application approved and 1 is the application rejected.
+
+
+## Steps implemented to complete the project
