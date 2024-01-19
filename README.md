@@ -45,6 +45,6 @@ Overall, the proposed project has the potential to upgrade the credit card appro
 
    We will transform the continuous features if the data is skewed.
 
-3. **Feature Selection and Scaling**
+3. **Feature Selection and Hypothesis Testing**
 
    We will perform several feature selection techniques such as correlation test, Chi-Squared test etc to select the most important features. We will scale the continuous features in this step using StandardScaler.
