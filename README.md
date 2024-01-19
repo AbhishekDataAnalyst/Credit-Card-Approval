@@ -6,9 +6,8 @@ A bank's credit card department is one of the top adopters of data science. A to
 Customers must fill out a form, either physically or online, to apply for a credit card. The application data is used to evaluate the applicant's creditworthiness. The decision is made using the application data in addition to the Credit Bureau Score, such as the FICO Score in the US or the CIBIL Score in India, and other internal information on the applicants. Additionally, the banks are rapidly taking a lot of outside data into account to enhance the caliber of credit judgements.
 
 ## Dataset
-1. Credit_Card.csv
-   
-(a) Ind_ID: Client ID
+1. Credit_Card.csv  
+   - Ind_ID: Client ID
 
 Gender: Gender information
 
