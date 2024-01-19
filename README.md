@@ -43,10 +43,10 @@ Overall, the proposed project has the potential to upgrade the credit card appro
 
 2. **Feature Selection and Hypothesis Testing**
 
-   After pre-processing the data, when EDA is performed, Univariate Analysis. i.e., histogram and pie chart for some columns and Bivariate Analysis. i.e., box plot, Scatter plot, correlation between data using heatmap and listed down the observations accordingly.
+   After pre-processing the data, when EDA is performed, Univariate Analysis i.e., histogram and pie chart for some columns and Bivariate Analysis i.e., box plot, Scatter plot, and correlation between data using heatmap and listed down the observations accordingly.
 
    Hypothesis Testing methods such as correlation test, Chi-Squared test etc to select the most important features.
    
 4. **Machine Learning Algorithms**
 
-   Here ML Algorithms will be applied. Looking at the problem statement, with the categorial features involved 
+   Here ML Algorithms will be applied. Looking at the problem statement with the categorial features involved, classification algorithms can be used. Logistic regression, Support Vector Machines(SVMs), Random Forest, Decision Tree, K-Nearest Neighbors(KNN). 
