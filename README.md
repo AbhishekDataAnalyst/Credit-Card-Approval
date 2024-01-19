@@ -43,4 +43,4 @@ Overall, the proposed project has the potential to upgrade the credit card appro
 
 2. **Data Transformation**
 
-   We will do transform the continuous features if the data is skewed.
+   We will transform the continuous features if the data is skewed.
