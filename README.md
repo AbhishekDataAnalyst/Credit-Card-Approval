@@ -41,10 +41,10 @@ Overall, the proposed project has the potential to upgrade the credit card appro
 
    In this step, two Excel files will be combined into a single file using Dataframes. Later cleaning and preprocessing steps will be done to ensure its quality and suitability for data analysis. Also, EDA will be implemented. Missing values and outliers will be removed if any and then we will do encoding on the categorical features.
 
-2. **Data Transformation**
-
-   We will transform the continuous features if the data is skewed.
-
-3. **Feature Selection and Hypothesis Testing**
+2. **Feature Selection and Hypothesis Testing**
 
    We will perform several feature selection techniques such as correlation test, Chi-Squared test etc to select the most important features. We will scale the continuous features in this step using StandardScaler.
+
+3. **Machine Learning Algorithms**
+
+   Here ML Algorithms will be applied. Looking at the problem statement, 
