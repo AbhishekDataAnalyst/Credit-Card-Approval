@@ -41,13 +41,13 @@ Overall, the proposed project has the potential to upgrade the credit card appro
 
 -   In this step, two Excel files will be combined into a single file using pandas data frames. Later cleaning and preprocessing steps will be done to ensure its quality and suitability for data analysis.
 
--   EDA will be implemented. Missing values and outliers will be removed if any and then we will do encoding on the categorical features. The cleaned dataset is what will be used for further analysis.
+-   EDA will be implemented. We will perform univariate and bivariate analysis.
 
 2. **Feature engineering**
 
--   After pre-processing the data, we would look for Handling outliers, encoding for categorial variables, feature scaling and feature selection.
+-   After pre-processing the data, we would look for Handling outliers, encoding for categorical variables, feature scaling and feature selection.
 
    
-4. **Machine Learning Algorithms**
+3. **Machine Learning Algorithms**
 
    Here ML Algorithms will be applied. Looking at the problem statement with the categorial features involved, classification algorithms can be used. Logistic regression, Support Vector Machines(SVMs), Random Forest, Gradient boosting, Decision Tree, K-Nearest Neighbors(KNN) and Gaussian Naive Bayes. 
