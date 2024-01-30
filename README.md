@@ -43,14 +43,11 @@ Overall, the proposed project has the potential to upgrade the credit card appro
 
 -   EDA will be implemented. Missing values and outliers will be removed if any and then we will do encoding on the categorical features. The cleaned dataset is what will be used for further analysis.
 
-2. **Feature Selection**
+2. **Feature engineering**
 
--   After pre-processing the data, when EDA is performed, Univariate Analysis i.e., histogram and pie chart for some columns and Bivariate Analysis i.e., box plot, Scatter plot, and correlation between data using heatmap and listed down the observations accordingly.
+-   After pre-processing the data, we would look for Handling outliers, encoding for categorial variables, feature scaling and feature selection.
 
-3. **Hypothesis Testing**
-   
--   Hypothesis Testing methods such as correlation test, Chi-Squared test etc to select the most important features.
    
 4. **Machine Learning Algorithms**
 
-   Here ML Algorithms will be applied. Looking at the problem statement with the categorial features involved, classification algorithms can be used. Logistic regression, Support Vector Machines(SVMs), Random Forest, Decision Tree, K-Nearest Neighbors(KNN). 
+   Here ML Algorithms will be applied. Looking at the problem statement with the categorial features involved, classification algorithms can be used. Logistic regression, Support Vector Machines(SVMs), Random Forest, Gradient boosting, Decision Tree, K-Nearest Neighbors(KNN) and Gaussian Naive Bayes. 
